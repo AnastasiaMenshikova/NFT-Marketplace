@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "build": "react-scripts build --max-old-space-size=12288",
     "eject": "react-scripts eject",
+    "surge": "surge ./build",
     "compile": "hardhat compile",
     "deploy": "hardhat deploy --export-all ./src/Marketplace.json",
     "test": "hardhat test",

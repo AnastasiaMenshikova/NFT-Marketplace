@@ -48,3 +48,7 @@ If you want to write unit tests for your solidity code and check coverage of tes
 yarn coverage
 
 ```
+
+When you are ready to ship the frontend app, run `yarn build` to package up your frontend.
+
+Upload your app to surge with `yarn surge`. If you get a permissions error `yarn surge` again until you get a unique URL, or customize it in the command line.
