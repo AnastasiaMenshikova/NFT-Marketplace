@@ -1,4 +1,4 @@
-# Alchemy Basic NFT Marketplace end to end
+# Alchemy Basic NFT Marketplace
 
 [Alchemy Road to Web 3 Week 7](https://docs.alchemy.com/docs/how-to-build-an-nft-marketplace-from-scratch)
 
